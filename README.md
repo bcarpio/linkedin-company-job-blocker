@@ -35,6 +35,10 @@ The LinkedIn Company Job Blocker extension is now installed on your Firefox brow
 
 5. To remove a company from the blocked list, click the "Remove" button next to the company name in the extension popup.
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/1486426/233191217-006f29f9-6637-4d9e-b281-4d0aaf6caff6.png)
+
 ## Contributing
 
 If you would like to contribute to the project or report a bug, please create an issue or submit a pull request on the [GitHub repository](https://github.com/bcarpio/linkedin-company-job-blocker.git).
